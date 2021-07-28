@@ -1,3 +1,6 @@
+//TESTE GIT
+
+
 import java.util.Scanner;
 import java.text.*;
 
@@ -120,6 +123,8 @@ import java.text.*;
 			        double average = ((gs[0].getPrice() + gs[1].getPrice() + gs[2].getPrice())/3);
 			        System.out.println("Average Price: Cad -> " + decimal.format(average));
 			        System.out.println("Program By Hygor costa");
+			        
+			        System.out.println("teste Git");
 			        
 		    }
 		    

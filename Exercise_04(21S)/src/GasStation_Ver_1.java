@@ -134,6 +134,7 @@ public class GasStation_Ver_1 {
 	        System.out.println("Average Price: " + decimal.format(average));
 	        System.out.println("Program By Hygor Costa");
 		
+	        System.out.println("Teste Gir na Classe");
 
 		}
 		    
